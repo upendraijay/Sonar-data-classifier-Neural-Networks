@@ -10,7 +10,7 @@ In this project you will apply unsupervised learning techniques on product spend
 
 
 ### Install
-This project requires Python 2.7 and the following Python libraries installed:
+This project requires Python 3 and the following Python libraries installed:
 - NumPy
 Pandas
 matplotlib
